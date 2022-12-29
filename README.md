@@ -2,7 +2,9 @@
 
 ## Desafio Scrum Master
 
-Link do projeto [clique aqui](desafio-scrum-master.pdf) para visualisar! 
+Link do projeto estudo de caso [clique aqui](desafio-scrum-master.pdf) para visualisar! 
+
+Link do projeto Miro [clique aqui](desafio-miro.pdf) para visualisar!
 
 ### Autor
 
