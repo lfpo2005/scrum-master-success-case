@@ -2,7 +2,7 @@
 
 ##Desafio Scrum Master
 
-Projeto em escrito em pdf [clique aqui](desafio-scrum-master.pdf) para visualisar! 
+Link do projeto [clique aqui](desafio-scrum-master.pdf) para visualisar! 
 
 ### Autor
 
